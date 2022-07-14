@@ -10,34 +10,34 @@ Reviewer: RS
 
 ## Contribution
 
-While next-generation air transportation systems have gradually been adapting the usage of Mobile Cockpit Information Systems (MCIS) for surveillance of airborne traffic, the development process of said systems has not adapted their security measures with regards to its criticality and importance in the private and public aviation industry. This paper addresses the resilience and security of the most popular MCIS. 
+While next-generation air transportation systems have gradually been adapting the usage of Mobile Cockpit Information Systems (MCIS) for surveillance of airborne traffic, the development process of said systems has not adapted their security measures regarding its criticality and importance in the private and public aviation industry. This paper addresses the resilience and security of the most popular MCIS. 
 
-The main contributions of this work include a security analysis of multiple MCIS, the impact of Denial-of-Service (DoS) on EFBs and a vulnerability demonstration of ADS-B datalink implementations.
+The main contributions of this work include a security analysis of multiple MCIS, the impact of Denial-of-Service (DoS) on EFBs, and a vulnerability demonstration of ADS-B datalink implementations.
 
 ### Strengths
 
-* Strong motivation, presents the high risk and impact that these systems malfunction may bring; 
-* Includes a detailed and complete survey of related work on ADS-B attack surfaces and how it sets itself appart;
-* Indepth analysis of a wide number of MCIS, including the most popular software, hardware and its multiple combinations.
+* Strong motivation presents the high risk and impact that these systems malfunction may bring; 
+* Includes a detailed and complete survey of related work on ADS-B attack surfaces and how it sets itself apart;
+* In-depth analysis of various MCIS, including the most popular software, hardware, and its multiple combinations.
 
 ### Weaknesses
 
-* While results demonstrate that systems are affected by the attacks, little analysis is done on __why__ they are affected and which factors most influence these results, specially for the 1090ES case. 
-* It is not clear in the result analysis whether some of the DoS issues found, specially regarding message dropping, are software issues, hardware issues or both.
+* While results demonstrate that systems are affected by the attacks, little analysis is done on __why__ they are affected and which factors most influence these results, especially for the 1090ES case. 
+* It is not clear in the result analysis whether some of the DoS issues found, especially regarding message dropping, are software issues, hardware issues, or both.
 * Its usage in a realistic environment is not mentioned and is somewhat questionable.
 
 ### Points of interest
 
-- Detailed exposition and comparision with related work, a good starting point to enter the world of ADS-B security.
+- Detailed exposition and comparison with related work, a good starting point to enter the world of ADS-B security.
 
-- Large data set of the most used hardware and software, along with results correlation with previous related work (fuzzing attacks).
+- Large data set of the most used hardware and software, along with results correlated with previous related work (fuzzing attacks).
 
 ### Questions for discussion
 
 1. What conclusions can we obtain from the 1090ES DoS results? 
-2. Are the valid messages dropped an hardware or a software issue? The attack payload seems to overflow the highest maximum capacities of some MCIS (SkyEcho2), but it is not clear if the dropping is due to hardware or the software cannot handle the ammount of addresses. 
-3. Arent "valid message dropped" and output clogged the same issue? Does this differentiation mean that UAT978 are able to show all aircrafts, but are not able to provide all updates to them?
-4. How was the DoS message content created? We see that fuzzing works on the applications, what if the application crashes are related to content rather than the DoS? 
+2. Are the valid messages dropped as hardware or a software issue? The attack payload seems to overflow the highest maximum capacities of some MCIS (SkyEcho2), but it is not clear if the dropping is due to hardware or the software cannot handle the number of addresses. 
+3. Arent "valid message dropped" and output clogged the same issue? Does this differentiation mean that UAT978 are able to show all aircraft but is not able to provide all updates to them?
+4. How was the DoS message content created? We see that fuzzing works on the applications; what if the application crashes are related to content rather than the DoS? 
 
 ## See also
 
