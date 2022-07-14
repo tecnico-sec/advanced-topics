@@ -15,26 +15,26 @@ This paper addresses the vulnerability to DoS attacks by mobile cockpit informat
 
 ### Strengths
 
-This paper addresses a pertinent problem, since the air-traffic control systems are considered critical applications, which require great availability, and the continuous increase of aircrafts in the airspace demands more accurate and efficient systems.
-The authors provide a great explanation of the relevance of the problem, the current proposed solutions to mitigate the problem and the limitations of current studies.
+This paper addresses a pertinent problem since air-traffic control systems are considered critical applications which require great availability. The continuous increase of aircraft in the airspace demands more accurate and efficient systems.
+The authors provide a great explanation of the problem's relevance, the currently proposed solutions to mitigate the problem, and the limitations of current studies.
 Overall, the paper is well structured and easy to read for non-experts in aircraft systems. 
 
 ### Weaknesses
 
-Concerning the experimental setup, I did not understand how the attack payload transmission was performed, namely, if it was only one SDR sending messages. If so, I believe this is unrealistic and a step back comparing to related studies. Moreover, the authors never state the rate of the requests, only that they are sent "very quickly", which is a bit vague.
+Concerning the experimental setup, I did not understand how the attack payload transmission was performed, namely, if it was only one SDR sending messages. If so, I believe this is unrealistic and a step back compared to related studies. Moreover, the authors never state the rate of the requests, only that they are sent "very quickly," which is a bit vague.
 It would also help to have an example of an attack payload.
-Concerning the results, I found confusing to explain some of the results prior to showing them.
-Additionally, I think it would help the reader to have the figures available in the same page they are referenced. The authors also never describe the IQ abbreviation.
+Concerning the results, I found it confusing to explain some of the results prior to showing them.
+Additionally, I think it would help the reader to have the figures available on the same page they are referenced. The authors also never describe the IQ abbreviation.
 
 ### Points of interest
 
-The hardware and software combinations used in the experimental setup can be useful for other researchers to perform related studies.
+The hardware and software combinations used in the experimental setup can be helpful for other researchers to perform related studies.
 
 ### Questions for discussion
 
 1. Would any of the proposed solutions help mitigate the denial of service attacks?
-2. Would the paper improve if the transmission as performed N-1?
+2. Would the paper improve if the transmission was performed N-1?
 
 ## Comparison
 
-The topic of this paper is very different of my work. However, there are some similarities and lessons to learn. I am tempted to perform a large scale analysis related to GDPR violations in the wild, so this paper helped me understand how to structure the paper and which aspects are relevant to an experimental study.
+The topic of this paper is very different from my work. However, there are some similarities and lessons to learn. I am tempted to perform a large-scale analysis related to GDPR violations in the wild, so this paper helped me understand how to structure the paper and which aspects are relevant to an experimental study.
