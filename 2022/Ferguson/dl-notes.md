@@ -6,7 +6,7 @@ Authors: Kimberly J. Ferguson-Walter, Maxine M. Major, Chelsea K. Johnson, and D
 
 Reviewer: DL
 
-Link: https://www.usenix.org/system/files/sec21-ferguson-walter.pdf
+[Link to publication page](https://www.usenix.org/system/files/sec21-ferguson-walter.pdf)
 
 
 ## Contribution
