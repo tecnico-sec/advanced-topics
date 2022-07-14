@@ -4,7 +4,7 @@ Title:   Online Website Fingerprinting: Evaluating Website Fingerprinting Attack
 
 Authors: _Giovanni Cherubin ,   Rob Jansen , 	 Carmela Troncoso_
 
-Reviewer: _reviewer initials_
+Reviewer: _SS_
 
 [Link to publication page](https://www.usenix.org/conference/usenixsecurity22/presentation/cherubin)
 
