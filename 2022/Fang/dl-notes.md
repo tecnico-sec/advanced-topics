@@ -5,13 +5,12 @@ Authors: Pengcheng Fang, Case Western Reserve University; Peng Gao, Virginia Tec
 
 Reviewer: DL
 
-Link: https://www.usenix.org/system/files/sec22summer_fang.pdf
-
+[Link to publication page]( https://www.usenix.org/system/files/sec22summer_fang.pdf)
 
 ## Contribution
-Dependency graphs used for causality analysis are central to investigating attacks. However, this generates huge graphs that are impractical to analyze. By observing the graphs of previous attacks, the authors state that suspicious events produce very particular patterns, compared to unrelated dependencies.
+Dependency graphs used for causality analysis are central to investigating attacks. However, this generates enormous graphs that are impractical to analyze. By observing the graphs of previous attacks, the authors state that suspicious events produce particular patterns compared to unrelated dependencies.
 
-To reduce the dependency graphs, the authors propose a framework that identifies subgraphs containing relevant events. To do this, they assign weights to the edges of the graph to distinguish critical edges, try to find the entry points, and do the forward causality analysis from the entry nodes with the highest values to get more relevant edges. They manage to reduce the graph by 4611 times, on average.
+The authors propose a framework that identifies subgraphs containing relevant events to reduce dependency graphs. To do this, they assign weights to the edges of the graph to distinguish critical edges, try to find the entry points, and do the forward causality analysis from the entry nodes with the highest values to get more relevant edges. They manage to reduce the graph by 4611 times, on average.
 
 
 ## Strengths
@@ -19,23 +18,23 @@ To reduce the dependency graphs, the authors propose a framework that identifies
 
 * Figures 1, 3, and 4 are a very good representation to ease the reader into how this system works and what is expected to happen with an attack.
 
-* Sections 1 to 3 are very strong and easy to read, making readers very comfortable with the work.
+* Sections 1 to 3 are very strong and easy to read, making readers comfortable with the work.
 
-* Extensive evaluation of the tool. However, it is a bit too thorough, maybe they could have shown only the most representative results.
+* Extensive evaluation of the tool. However, it is a bit too thorough; maybe they could have shown only the most representative results.
 
 
 ## Weaknesses
-* Making several references together makes it harder to know the relevance of each one. This is done throughout the whole paper. Even in single references like Sysdig this is not properly explained. The reader should be provided with a description or summary.
+* Making several references together makes it harder to know the relevance of each one. This is done throughout the whole paper. Even in single references like Sysdig, this is not adequately explained. The reader should be provided with a description or summary.
 
-* The DARPA TC and the DARPA dataset are not explained and are used throughout the whole evaluation.
+* The DARPA TC and the DARPA dataset are not explained and used throughout the evaluation.
 
 * Section 4 could have a scheme explaining better how the multiple dependency graph weights are calculated. The paper starts being very confusing in this part.
 
 * The authors do not explain how they generate testbeds that are representative of real-world usage.
 
-* Table 4 results are pretty different depending on the attack and this is not explained to the reader.
+* Table 4 results are pretty different depending on the attack, and this is not explained to the reader.
 
-* There should be an analysis of how these attacks cover most cases. For instance, excluding attacks that came from fishing emails reduces the representativeness of the attacks used to evaluate this tool.
+* There should be an analysis of how these attacks cover most cases. For instance, excluding attacks from fishing emails reduces the representativeness of the attacks used to evaluate this tool.
 
 
 ## Points of interest
@@ -45,19 +44,20 @@ To reduce the dependency graphs, the authors propose a framework that identifies
 
 
 ## See also
-* DepImpact source code: https://github.com/usenixsub/DepImpact
+- [DepImpact source code](https://github.com/usenixsub/DepImpact)
 
-* AIQL: Enabling efficient attack investigation from system monitoring data: https://www.usenix.org/conference/atc18/presentation/gao
+- [AIQL: Enabling efficient attack investigation from system monitoring data](https://www.usenix.org/conference/atc18/presentation/gao)
 
 
 ## Comparison
-This work is very interesting for me because previously, I was working on reducing the traces left by executing programs on an operating system. This has a lot to do with forensic analysis, tracing malware behavior vs normal behavior and logging kernel events, and analyzing their dependencies. Currently, my research area is a bit different, but it also ties with malware distribution on distributed networks and the consequences to the involved machines. So, this work, even though I cannot use it directly, gives me valuable insights on how to make a more practical analysis of attacks.
+
+This work is fascinating for me because previously, I was working on reducing the traces left by executing programs on an operating system. This has a lot to do with forensic analysis, tracing malware behavior vs. normal behavior and logging kernel events, and analyzing their dependencies. Currently, my research area is a bit different. However, it also ties with malware distribution on distributed networks and the consequences to the involved machines. So, this work, even though I cannot use it directly, gives me valuable insights on how to make a more practical analysis of attacks.
 
 
 ## Questions
 1. How is this system interoperable among different operating systems?
 
-2. Does this system work as a forensic analysis tool or as a real-time analysis tool? As long as kernel logging is enabled, can this be used to identify attacks after they happen or does this dependency graph need to be in constant generation?
+2. Does this system work as a forensic analysis tool or as a real-time analysis tool? As long as kernel logging is enabled, can this be used to identify attacks after they happen, or does this dependency graph need to be in a constant generation?
 
 3. How do the authors deal with the space limitations of producing long logs in the kernel?
 
