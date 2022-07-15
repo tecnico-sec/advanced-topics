@@ -36,8 +36,8 @@ However, the author of this article has used a Triplet fingerprint attack on the
 
 ## See also
 
-- [link to related publication](https://www.researchgate.net/publication/290568676_A_Critical_Evaluation_of_Website_Fingerprinting_Attacks)
-- [link to related publication](https://www.researchgate.net/publication/305423586_On_Realistically_Attacking_Tor_with_Website_Fingerprinting)
+- [A Critical Evaluation of Website Fingerprinting Attacks](https://www.researchgate.net/publication/290568676_A_Critical_Evaluation_of_Website_Fingerprinting_Attacks)
+- [On Realistically Attacking Tor with Website Fingerprinting](https://www.researchgate.net/publication/305423586_On_Realistically_Attacking_Tor_with_Website_Fingerprinting)
 
 
 ## Comparison
