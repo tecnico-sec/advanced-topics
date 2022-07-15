@@ -29,12 +29,12 @@ A\* conferences, according to the [CORE ranking](http://portal.core.edu.au/conf-
 * [Usenix NDSS - ...](https://...)
     * [2022 - The Network and Distributed System Security (NDSS) Symposium](https://www.ndss-symposium.org/ndss2022/)[proceedings](https://www.ndss-symposium.org/ndss2022/registration-information/)
     * [2021 - Network and Distributed System Security Symposium](https://www.ndss-symposium.org/ndss2021/)
-* [IEEE S&P - ](https://...)
-    * [2022 - ...](https://...) - [proceedings](https://www.computer.org/csdl/proceedings/sp/2022/1wKCdeg89vq)
-    * [2021 - ...](https://...) - [proceedings](https://...)
+* [IEEE S&P - ](https://...](https://www.ieee-security.org/)
+    * [2022 - 43rd IEEE Symposium on Security and Privacy](https://www.ieee-security.org/TC/SP2022/) - [proceedings](https://www.computer.org/csdl/proceedings/sp/2022/1wKCdeg89vq)
+    * [2021 - 42nd IEEE Symposium on Security and Privacy](https://...](https://www.ieee-security.org/TC/SP2021/) - [proceedings](https://...)
 * [Usenix Security - ](https://...)
-    * [2022 - ...](https://...)
-    * [2021 - ...](https://...) - [proceedings](https://www.usenix.org/conference/usenixsecurity21/technical-sessions)
+    * [2022 - 31st USENIX Security Symposium -  Boston Marriott Copley Place in Boston, MA, USA](https://www.usenix.org/conference/usenixsecurity22) - [proceeding](https://www.usenix.org/conference/usenixsecurity22/call-for-papers)
+    * [2021 - 30th USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity21) - [proceedings](https://www.usenix.org/conference/usenixsecurity21/technical-sessions](https://www.usenix.org/conferences/values-policies)
 
 
 ### Journals
