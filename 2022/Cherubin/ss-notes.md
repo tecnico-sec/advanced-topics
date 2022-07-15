@@ -10,25 +10,25 @@ Reviewer: _SS_
 
 ## Contribution
 
-_Using Website Fingerprint (WF) attacks on the Tor network, hackers can guess which websites the user will visit by monitoring the connection between the user and the Tor network. This attack can also compromise users' privacy. 
+Using Website Fingerprint (WF) attacks on the Tor network, hackers can guess which websites the user will visit by monitoring the connection between the user and the Tor network. This attack can also compromise users' privacy. 
 The paper's primary purpose is to evaluate the effectiveness of WF attacks in the real world without compromising the security and privacy of Tor network users. WF attacks are now carried out with great precision. Are these attacks effective in the real world and the existing network with many sites or not? 
-This paper tests a new Triplet Fingerprinting attack using an exit relay in the Tor network. This article examines the WF attack on the top 100 sites in terms of site rankings by Alexa._
+This paper tests a new Triplet Fingerprinting attack using an exit relay in the Tor network. This article examines the WF attack on the top 100 sites in terms of site rankings by Alexa.
 
 ### Strengths
 
-_Researchers typically use artificial traffic to evaluate the effectiveness of a WF attack. This synthetic traffic is tested offline on a few sites, which can not show the actual efficacy of this attack. 
-However, the author of this article has used a Triplet fingerprint attack on the Tor network exit relay and in the real-world Tor network. It has also increased the scope of its surveyed sites to 100 in the real world and 1,000 in the artificial state._
+Researchers typically use artificial traffic to evaluate the effectiveness of a WF attack. This synthetic traffic is tested offline on a few sites, which can not show the actual efficacy of this attack. 
+However, the author of this article has used a Triplet fingerprint attack on the Tor network exit relay and in the real-world Tor network. It has also increased the scope of its surveyed sites to 100 in the real world and 1,000 in the artificial state.
 
 
 ### Weaknesses
 
-_One of the weaknesses of this experiment is the short duration of the one-week review, which is spent on evaluation, which seems to change over time as the results are obtained.
-As mentioned in this article, a hacker can successfully use a WF attack by examining fewer sites in the real world. However, this article does not offer any solution to this attack and only mentions that this attack can happen on the Tor network._ 
+One of the weaknesses of this experiment is the short duration of the one-week review, which is spent on evaluation, which seems to change over time as the results are obtained.
+As mentioned in this article, a hacker can successfully use a WF attack by examining fewer sites in the real world. However, this article does not offer any solution to this attack and only mentions that this attack can happen on the Tor network.
 
 ### Points of interest
 
-- _Investigate a real-world attack and its effectiveness_
-- _Since users use the Tor network to protect their privacy, hackers may still attack privacy. Even the Tor network does not prevent users from hiding when using the Internet, and hackers can guess the sites users visit._
+- Investigate a real-world attack and its effectiveness_
+- Since users use the Tor network to protect their privacy, hackers may still attack privacy. Even the Tor network does not prevent users from hiding when using the Internet, and hackers can guess the sites users visit._
 
 ### Questions for discussion
 
@@ -42,6 +42,6 @@ As mentioned in this article, a hacker can successfully use a WF attack by exami
 
 ## Comparison
 
-_By studying this article, I have concluded that only laboratory experiments can not obtain accurate results in my work. It is better to test my work in natural environments with accurate data._
+By studying this article, I have concluded that only laboratory experiments can not obtain accurate results in my work. It is better to test my work in natural environments with accurate data._
 
-_I also found that cyber attacks have to be viewed from different angles; each cyber attack can be executed differently. To investigate IoT and its security, attacks that may occur on the IoT network should be examined differently. For example, the WF attack uses an input relay as an age in this article. However, the author suggests using the Tor network output relay to get a better result._
+I also found that cyber attacks have to be viewed from different angles; each cyber attack can be executed differently. To investigate IoT and its security, attacks that may occur on the IoT network should be examined differently. For example, the WF attack uses an input relay as an age in this article. However, the author suggests using the Tor network output relay to get a better result.
