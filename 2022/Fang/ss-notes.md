@@ -38,8 +38,8 @@ Other systems must be used to make it possible to use DEPIMPACT, which means tha
 
 ## See also
 
-- [link to related publication](https://www.scinapse.io/papers/2965563623)
-- [link to related publication](https://www.scinapse.io/papers/2998038410)
+- [Heterogeneous Graph Matching Networks for Unknown Malware Detection](https://www.scinapse.io/papers/2965563623)
+- [UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats.](https://www.scinapse.io/papers/2998038410)
 
 
 
