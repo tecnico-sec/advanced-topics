@@ -10,7 +10,7 @@ Reviewer: _reviewer initials_
 [Link to publication page](https://www.usenix.org/conference/usenixsecurity22/presentation/fang)
 
 ## Contribution
-- Today, most businesses are done online, so cyber attacks have increased and affected businesses, causing significant financial losses. Most of these attacks occur using vulnerabilities in the system. Today, one of the challenges in dealing with cyberattacks is investigating and identifying vulnerabilities. To combat cyber attacks, security experts try to find a security problem by reviewing reports from monitoring systems. However, the sheer volume of this data has made things very difficult. 
+Today, most businesses are done online, so cyber attacks have increased and affected businesses, causing significant financial losses. Most of these attacks occur using vulnerabilities in the system. Today, one of the challenges in dealing with cyberattacks is investigating and identifying vulnerabilities. To combat cyber attacks, security experts try to find a security problem by reviewing reports from monitoring systems. However, the sheer volume of this data has made things very difficult. 
 Therefore, The authors proposed that the DEPIMPACT, introduced with a new framework, can simplify the investigation by identifying the essential edges of the attack inputs in the dependency diagrams.
 
 ### Strengths
@@ -39,7 +39,7 @@ Other systems must be used to make it possible to use DEPIMPACT, which means tha
 ## See also
 
 - [link to related publication](https://www.scinapse.io/papers/2965563623)
--[link to related publication](https://www.scinapse.io/papers/2998038410)
+- [link to related publication](https://www.scinapse.io/papers/2998038410)
 
 
 
