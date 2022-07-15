@@ -16,14 +16,14 @@ This paper tests a new Triplet Fingerprinting attack using an exit relay in the 
 
 ### Strengths
 
-Researchers typically use artificial traffic to evaluate the effectiveness of a WF attack. This synthetic traffic is tested offline on a few sites, which can not show the actual efficacy of this attack. 
+- Researchers typically use artificial traffic to evaluate the effectiveness of a WF attack. This synthetic traffic is tested offline on a few sites, which can not show the actual efficacy of this attack. 
 However, the author of this article has used a Triplet fingerprint attack on the Tor network exit relay and in the real-world Tor network. It has also increased the scope of its surveyed sites to 100 in the real world and 1,000 in the artificial state.
 
 
 ### Weaknesses
 
-One of the weaknesses of this experiment is the short duration of the one-week review, which is spent on evaluation, which seems to change over time as the results are obtained.
-As mentioned in this article, a hacker can successfully use a WF attack by examining fewer sites in the real world. However, this article does not offer any solution to this attack and only mentions that this attack can happen on the Tor network.
+- One of the weaknesses of this experiment is the short duration of the one-week review, which is spent on evaluation, which seems to change over time as the results are obtained.
+- As mentioned in this article, a hacker can successfully use a WF attack by examining fewer sites in the real world. However, this article does not offer any solution to this attack and only mentions that this attack can happen on the Tor network.
 
 ### Points of interest
 
@@ -37,11 +37,11 @@ As mentioned in this article, a hacker can successfully use a WF attack by exami
 ## See also
 
 - [link to related publication](https://www.researchgate.net/publication/290568676_A_Critical_Evaluation_of_Website_Fingerprinting_Attacks)
--[link to related publication](https://www.researchgate.net/publication/305423586_On_Realistically_Attacking_Tor_with_Website_Fingerprinting)
+- [link to related publication](https://www.researchgate.net/publication/305423586_On_Realistically_Attacking_Tor_with_Website_Fingerprinting)
 
 
 ## Comparison
 
-By studying this article, I have concluded that only laboratory experiments can not obtain accurate results in my work. It is better to test my work in natural environments with accurate data._
+- By studying this article, I have concluded that only laboratory experiments can not obtain accurate results in my work. It is better to test my work in natural environments with accurate data._
 
-I also found that cyber attacks have to be viewed from different angles; each cyber attack can be executed differently. To investigate IoT and its security, attacks that may occur on the IoT network should be examined differently. For example, the WF attack uses an input relay as an age in this article. However, the author suggests using the Tor network output relay to get a better result.
+- I also found that cyber attacks have to be viewed from different angles; each cyber attack can be executed differently. To investigate IoT and its security, attacks that may occur on the IoT network should be examined differently. For example, the WF attack uses an input relay as an age in this article. However, the author suggests using the Tor network output relay to get a better result.
