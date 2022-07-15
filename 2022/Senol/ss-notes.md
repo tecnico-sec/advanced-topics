@@ -47,7 +47,7 @@ When the researchers visited the same websites from the U.S., they found 2,950 w
 
 ## See also
 
-- [link to related publication](https://complexdiscovery.com/embracing-differences-interplay-of-digital-forensics-in-ediscovery/)
+- [embracing differences interplay of digital forensics in ediscovery](https://complexdiscovery.com/embracing-differences-interplay-of-digital-forensics-in-ediscovery/)
 
 
 ## Comparison
