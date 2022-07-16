@@ -47,6 +47,7 @@ Q1 journals, according to the [Scimago ranking](https://www.scimagojr.com/)
 * [ Proceedings of the ACM Conference on Computer and Communications Security ](https://www.scimagojr.com/journalsearch.php?q=110362&tip=sid&clean=0)
 * [ Journal of Information Security and Applications ](https://www.scimagojr.com/journalsearch.php?q=21100332403&tip=sid&clean=0)
 * [Journal of Cybersecurityopen access](https://www.scimagojr.com/journalsearch.php?q=21100855505&tip=sid&clean=0)
+* [ Computers and Security ](https://www.scimagojr.com/journalsearch.php?q=28898&tip=sid&clean=0)
 
 
 ## Contact Info
