@@ -47,7 +47,7 @@ _-Decentralize the process_
 
 ## See also
 
-- [On the Challenges of Geographical Avoidance for Tor](http://poepper.net/papers/NDSS19-TrilateraTor.pdf))
+- [On the Challenges of Geographical Avoidance for Tor](http://poepper.net/papers/NDSS19-TrilateraTor.pdf)
 - [How to Catch when Proxies Lie: Verifying the Physical Locations of Network Proxies with Active Geolocation](https://dl.acm.org/doi/pdf/10.1145/3278532.3278551?casa_token=craj0wL-3poAAAAA:0NWqmHvYWhwn9EEy4OiNMLbS8vf8Ura5fo6Rg0KvSJ4K4oa0dNR-jwD5r9jzTfyxCjh82VxN6uE9Mw)
 
 
@@ -55,6 +55,4 @@ _-Decentralize the process_
 
 - It is an exciting idea, I work in the field of IoT, and I can use this idea to get the position of sensors in the network.
 
-- This project tries to detect unsafe nodes and prevent communication with them. However, in the work that I am doing, I intend to establish a secure connection between the sensors and the cloud with light and secure identification
-
-
+- This project tries to detect unsafe nodes and prevent communication with them. However, in the work that I am doing, I intend to establish a secure connection between the sensors and the cloud with light and secure identification.
