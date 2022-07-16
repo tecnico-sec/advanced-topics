@@ -43,6 +43,10 @@ Q1 journals, according to the [Scimago ranking](https://www.scimagojr.com/)
 
 * [ACM CCS - ACM Conference on Computers and Communications Security](https://...)
    * [2022 - ACM CCS 2022 November 7-11, 2022 Los Angeles, U.S.A](https://www.sigsac.org/ccs/CCS2022/call-for/call-for-papers.html)
+* [IEEE Transactions on Information Forensics and Security ](https://www.scimagojr.com/journalsearch.php?q=4000149002&tip=sid&clean=0)
+* [ Proceedings of the ACM Conference on Computer and Communications Security ](https://www.scimagojr.com/journalsearch.php?q=110362&tip=sid&clean=0)
+* [ Journal of Information Security and Applications ](https://www.scimagojr.com/journalsearch.php?q=21100332403&tip=sid&clean=0)
+* [Journal of Cybersecurityopen access](https://www.scimagojr.com/journalsearch.php?q=21100855505&tip=sid&clean=0)
 
 
 ## Contact Info
