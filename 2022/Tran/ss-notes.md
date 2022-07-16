@@ -38,7 +38,7 @@ It will take a long time to carry out this attack ultimately.
 ## See also
 
 - [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf)
--[On the Routing-Aware Peering against Network-Eclipse Attacks in Bitcoin](https://www.semanticscholar.org/paper/On-the-Routing-Aware-Peering-against-Attacks-in-Tran-Shenoi/db7f8535fe9dba9ff23b19ca0d574cf54dee9fe5)
+- [On the Routing-Aware Peering against Network-Eclipse Attacks in Bitcoin](https://www.semanticscholar.org/paper/On-the-Routing-Aware-Peering-against-Attacks-in-Tran-Shenoi/db7f8535fe9dba9ff23b19ca0d574cf54dee9fe5)
 
 ## Comparison
 
