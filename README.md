@@ -34,7 +34,7 @@ A\* conferences, according to the [CORE ranking](http://portal.core.edu.au/conf-
     * [2021 - 42nd IEEE Symposium on Security and Privacy](https://www.ieee-security.org/TC/SP2021/) - [proceedings](https://...)
 * [Usenix Security - ](https://...)
     * [2022 - 31st USENIX Security Symposium -  Boston Marriott Copley Place in Boston, MA, USA](https://www.usenix.org/conference/usenixsecurity22) - [proceeding](https://www.usenix.org/conference/usenixsecurity22/call-for-papers)
-    * [2021 - 30th USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity21) - [proceedings](https://www.usenix.org/conference/usenixsecurity21/technical-sessions](https://www.usenix.org/conferences/values-policies)
+    * [2021 - 30th USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity21)
 
 
 ### Journals
