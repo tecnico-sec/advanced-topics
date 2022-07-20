@@ -34,7 +34,7 @@ A\* conferences, according to the [CORE ranking](http://portal.core.edu.au/conf-
   * [2021 - (Virtual)](https://www.ieee-security.org/TC/SP2021/) - [proceedings](https://www.computer.org/csdl/proceedings/sp/2021/1wnPvp9beH6)
 * [Usenix Security Symposium](https://www.usenix.org/conferences/byname/108)
   * [2022 - Boston, MA, USA](https://www.usenix.org/conference/usenixsecurity22) - [proceedings](https://www.usenix.org/conference/usenixsecurity22/summer-accepted-papers)
-  * [2021 - 30th USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity21) - [proceedings](https://www.usenix.org/conference/usenixsecurity21/technical-sessions)
+  * [2021 - (Virtual)](https://www.usenix.org/conference/usenixsecurity21) - [proceedings](https://www.usenix.org/conference/usenixsecurity21/technical-sessions)
 
 ### Journals
 
